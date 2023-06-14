@@ -12,32 +12,36 @@ redirect_from:
 <h2>Education</h2>
 <ul>
   <li>
-    <b>ShanghaiTech University</b>
-    <div style="text-align: right; display: inline;"><em>Sept.2019-Jun.2023</em></div>
+    <span style="float: left;"><b>ShanghaiTech University</b></span>
+    <span style="float: right;"><em>Sept.2019-Jun.2023</em></span>
+    <br>
     B.S. in Electrical and Information Engineering
   </li>
   <li>
-    <b>University of Pennsylvania</b>
-    <div style="text-align: right; display: inline;"><em>Sept.2023-May.2025(expected)</em></div>
+    <span style="float: left;"><b>University of Pennsylvania</b></span>
+    <span style="float: right;"><em>Sept.2023-May.2025(expected)</em></span>
+    <br>
     M.S. in Robotics
   </li>
 </ul>
 
 
-
-
 <h2>Work Experience</h2>
 <ul>
-  <li><b>P&G</b></li> 
-  <div style="text-align: right; display: inline;"><em>Shanghai, China</em></div>
-  Robotics Software Engineering Intern
-  <div style="text-align: right; display: inline;"><em>Mar. 2023-Present</em></div>
-  <ul>
-    <li>Developed and implemented a robust algorithm for recognizing multiple boxes in complex backgrounds based on point clouds and grayscale images using Open3D. Achieved an accuracy rate of 97.5%.</li>
-    <li>Calculated the transformation matrix between the robot coordinate system and the camera coordinate system.</li>
-    <li>Designed and created an efficient path-planning strategy model for a palletizing robot using Matlab.</li>
-  </ul>
+  <li>
+    <b>P&G</b>
+    <span style="float: right;"><em>Shanghai, China</em></span>
+    <br>
+    Robotics Software Engineering Intern
+    <span style="float: right;"><em>Mar. 2023-Present</em></span>
+    <ul>
+      <li>Developed and implemented a robust algorithm for recognizing multiple boxes in complex backgrounds based on point clouds and grayscale images using Open3D. Achieved an accuracy rate of 97.5%.</li>
+      <li>Calculated the transformation matrix between the robot coordinate system and the camera coordinate system.</li>
+      <li>Designed and created an efficient path-planning strategy model for a palletizing robot using Matlab.</li>
+    </ul>
+  </li>
 </ul>
+
 
 <h2>Publications</h2>>
   <ul>{% for post in site.publications %}
@@ -57,17 +61,21 @@ redirect_from:
   
 <h2>Competition Experience</h2>
 <ul>
-  <li><b>2021 Xilinx China Women in Technology Hackathon</b>
-  <div style="text-align: right; display: inline;"><em>Oct.2021</em></div>
-  Runner-up and Best Innovation Award in China Region
-  <br>
-  Winner in Shanghai Division
-  <ul>
-    <li> Led a team to develop a smart line-tracking car using Xilinx PYNQ-Z2 FPGA development board.</li>
-    <li> Implemented Joystick control, orientation guidance, obstacle avoidance, and trajectory tracking functions;</li>
-    <li> Demonstrated innovative solutions for the visually impaired by combining voice recognition and Bluetooth remote control.</li>
-  </ul>
+  <li>
+    <b>2021 Xilinx China Women in Technology Hackathon</b>
+    <span style="float: right;"><em>Oct.2021</em></span>
+    <br>
+    Runner-up and Best Innovation Award in China Region
+    <br>
+    Winner in Shanghai Division
+    <ul>
+      <li>Led a team to develop a smart line-tracking car using Xilinx PYNQ-Z2 FPGA development board.</li>
+      <li>Implemented Joystick control, orientation guidance, obstacle avoidance, and trajectory tracking functions.</li>
+      <li>Demonstrated innovative solutions for the visually impaired by combining voice recognition and Bluetooth remote control.</li>
+    </ul>
+  </li>
 </ul>
+
 
 <h2>Skills</h2>
 <ul>
