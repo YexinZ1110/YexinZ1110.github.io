@@ -1,22 +1,62 @@
 ---
 permalink: /
-title: "YexinZ1110 is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+Hi! My name is Yexin Zhang, I'm from China and now I am living in Pennsylvania. I graduated in Electrical and Information Engineering in ShanghaiTech University and I am going to pursue my Master degree in Robotics in University of Pennsylvania.
 
-This is the front page of a website that is powered by the [YexinZ1110 template](https://github.com/YexinZ1110/YexinZ1110.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/YexinZ1110/YexinZ1110.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+During my internship at P&G Supply Chain Department, I developed and implemented robust algorithms for object recognition based on point clouds, and designed efficient path-planning strategies.
 
-A data-driven personal website
-======
+I have also worked on several exciting research projects in [AMNR Lab](https://www.amnrlab.org), such as constructing an Acoustic Tweezer system, enabling non-contact manipulation on water surfaces, and designing an micro-assembly system for micro-objects.
+
+In addition to my technical skills, I have actively participated in competitions, including the Xilinx China Women in Technology Hackathon, where my team built a Smart Guide Car and won the Runner-up and Best Innovation Award in China region. 
+
+I am excited to leverage my skills and experiences in Robotics and software development. I am constantly seeking new challenges and opportunities to expand my knowledge in cutting-edge technologies.
+
+<!-- <h2> Education background</h2>
+<div style="display: flex; justify-content: space-between;">
+  <div>
+    <strong>University of Pennsylvania</strong>
+    <br>
+    School of Engineering and Applied Science
+    <br>
+    Master of Robotics
+  </div>
+  <div style="text-align: right;">
+    <em>Pennsylvania, United States</em>
+    <br>
+    <em>Sept.2023-Jun.2025 (expected)</em>
+  </div>
+</div>
+
+<div style="display: flex; justify-content: space-between;">
+  <div>
+    <strong>ShanghaiTech University</strong>
+    <br>
+    School of Information Science and Technology  
+    <br>
+    Bachelor of Engineering in Electrical and Information Engineering
+  </div>
+  <div style="text-align: right;">
+    <em>Shanghai, China</em>
+    <br>
+    <em>Sept.2019-Jun.2023</em>
+  </div>
+</div> -->
+
+<!-- This is the front page of a website that is powered by the [YexinZ1110 template](https://github.com/YexinZ1110/YexinZ1110.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/YexinZ1110/YexinZ1110.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+
+A data-driven personal website -->
+<!-- ======
 Like many other Jekyll-based GitHub Pages templates, YexinZ1110 makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/YexinZ1110/YexinZ1110.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://YexinZ1110.github.io/talkmap.html).
+Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/YexinZ1110/YexinZ1110.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://YexinZ1110.github.io/talkmap.html). -->
 
-Getting started
+<!-- Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this repository](https://github.com/YexinZ1110/YexinZ1110.github.io) by clicking the "fork" button in the top right. 
@@ -31,9 +71,9 @@ The main configuration file for the site is in the base directory in [_config.ym
 
 Create content & metadata
 ------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/YexinZ1110/YexinZ1110.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://YexinZ1110.github.io/talks), each [individual page](https://YexinZ1110.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://YexinZ1110.github.io/cv), and the [map of places you've given a talk](https://YexinZ1110.github.io/talkmap.html) (if you run this [python file](https://github.com/YexinZ1110/YexinZ1110.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/YexinZ1110/YexinZ1110.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/YexinZ1110/YexinZ1110.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://YexinZ1110.github.io/talks), each [individual page](https://YexinZ1110.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://YexinZ1110.github.io/cv), and the [map of places you've given a talk](https://YexinZ1110.github.io/talkmap.html) (if you run this [python file](https://github.com/YexinZ1110/YexinZ1110.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/YexinZ1110/YexinZ1110.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory). -->
 
-**Markdown generator**
+<!-- **Markdown generator**
 
 I have also created [a set of Jupyter notebooks](https://github.com/YexinZ1110/YexinZ1110.github.io/tree/master/markdown_generator
 ) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the YexinZ1110 template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
@@ -47,4 +87,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring YexinZ1110 can be found in [the guide](https://YexinZ1110.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring YexinZ1110 can be found in [the guide](https://YexinZ1110.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->

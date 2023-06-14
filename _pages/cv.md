@@ -9,32 +9,36 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+<h2>Education</h2>
+<ul>
+  <li>ShanghaiTech University</li>
+    _B.S. in Electrical and Information Engineering, Sept.2019-Jun.2023_
+  <li>University of Pennsylvania</li>
+    _M.S. in Robotics, Sept.2023-May.2025(expected)_
+</ul>
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+<h2>Work Experience</h2>
+<!-- ====== -->
+<ul>
+  <li>P&G</li> 
+  <li>Robotics Software Engineering Intern</li>
+  <br>
+  <em>Shanghai, China</em>
+  <br>
+  <em>Apr. 2023-Present</em>
+  <ul>
+    <li>Developed and implemented a robust algorithm for recognizing multiple boxes in complex backgrounds based on point clouds and grayscale images using Open3D. Achieved an accuracy rate of 97.5%.</li>
+    <li>Calculated the transformation matrix between the robot coordinate system and the camera coordinate system.</li>
+    <li>Designed and created an efficient path-planning strategy model for a palletizing robot using Matlab.</li>
+  </ul>
+</ul>
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+**Languages:** C/C++, Python, MATLAB, JAVA, HTML/CSS, JavaScript, Verilog, VHDL
+<br>
+**Technologies:** Node.js, Express.js, React.js, MongoDB, jQuery, Bootstrap， APIs， OpenCV, Qt, Open3D, Git, Solidworks, Unity(Vuforia), Vivado, Multism, PSIM
 
 Publications
 ======
@@ -42,18 +46,22 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Teaching
+<!-- Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Service and leadership
+Competition Experience
 ======
-* Currently signed in to 43 different slack teams
+**2021 Xilinx China Women in Technology Hackathon**（Oct.2021）
+_Runner-up and Best Innovation Award in China Region, Winner in Shanghai Division_
+  * Led a team to develop a smart line-tracking car using Xilinx PYNQ-Z2 FPGA development board.
+  * Implemented Joystick control, orientation guidance, obstacle avoidance, and trajectory tracking functions;
+  * Demonstrated innovative solutions for the visually impaired by combining voice recognition and Bluetooth remote control.
