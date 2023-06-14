@@ -11,22 +11,21 @@ redirect_from:
 
 <h2>Education</h2>
 <ul>
-  <li>ShanghaiTech University</li>
-    _B.S. in Electrical and Information Engineering, Sept.2019-Jun.2023_
-  <li>University of Pennsylvania</li>
-    _M.S. in Robotics, Sept.2023-May.2025(expected)_
+  <li><b>ShanghaiTech University</b></li>
+  Sept.2019-Jun.2023<br>
+  B.S. in Electrical and Information Engineering
+  <li><b>University of Pennsylvania</b></li>
+  Sept.2023-May.2025(expected)<br>
+  M.S. in Robotics
 </ul>
 
 
 <h2>Work Experience</h2>
-<!-- ====== -->
 <ul>
-  <li>P&G</li> 
-  <li>Robotics Software Engineering Intern</li>
+  <li><b>P&G</b></li> 
+  Robotics Software Engineering Intern
   <br>
-  <em>Shanghai, China</em>
-  <br>
-  <em>Apr. 2023-Present</em>
+  <em>Shanghai, China, Mar. 2023-Present</em>
   <ul>
     <li>Developed and implemented a robust algorithm for recognizing multiple boxes in complex backgrounds based on point clouds and grayscale images using Open3D. Achieved an accuracy rate of 97.5%.</li>
     <li>Calculated the transformation matrix between the robot coordinate system and the camera coordinate system.</li>
@@ -34,14 +33,7 @@ redirect_from:
   </ul>
 </ul>
 
-Skills
-======
-**Languages:** C/C++, Python, MATLAB, JAVA, HTML/CSS, JavaScript, Verilog, VHDL
-<br>
-**Technologies:** Node.js, Express.js, React.js, MongoDB, jQuery, Bootstrap， APIs， OpenCV, Qt, Open3D, Git, Solidworks, Unity(Vuforia), Vivado, Multism, PSIM
-
-Publications
-======
+<h2>Publications</h2>>
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
@@ -52,16 +44,33 @@ Publications
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul> -->
   
-<!-- Teaching
-======
-  <ul>{% for post in site.teaching %}
+<h2>Projects</h2>
+  <ul>{% for post in site.projects %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
+  {% endfor %}</ul>
   
-Competition Experience
-======
-**2021 Xilinx China Women in Technology Hackathon**（Oct.2021）
-_Runner-up and Best Innovation Award in China Region, Winner in Shanghai Division_
-  * Led a team to develop a smart line-tracking car using Xilinx PYNQ-Z2 FPGA development board.
-  * Implemented Joystick control, orientation guidance, obstacle avoidance, and trajectory tracking functions;
-  * Demonstrated innovative solutions for the visually impaired by combining voice recognition and Bluetooth remote control.
+<h2>Competition Experience</h2>
+<ul>
+  <li><b>2021 Xilinx China Women in Technology Hackathon</b>
+  <br>
+  <em>Oct.2021</em>
+  <br>
+  Runner-up and Best Innovation Award in China Region
+  <br>
+  Winner in Shanghai Division
+  <ul>
+    <li> Led a team to develop a smart line-tracking car using Xilinx PYNQ-Z2 FPGA development board.</li>
+    <li> Implemented Joystick control, orientation guidance, obstacle avoidance, and trajectory tracking functions;</li>
+    <li> Demonstrated innovative solutions for the visually impaired by combining voice recognition and Bluetooth remote control.</li>
+  </ul>
+</ul>
+
+<h2>Skills</h2>
+<ul>
+  <li><b>Languages:</b> 
+  <br>
+  C/C++, Python, MATLAB, JAVA, HTML/CSS, JavaScript, Verilog, VHDL</li>
+  <li><b>Technologies:</b>
+  <br>
+  Node.js, Express.js, React.js, MongoDB, jQuery, Bootstrap，APIs，OpenCV, Qt, Open3D, Keil, Proteus, Git, \LaTeX, Solidworks, Unity(Vuforia), Vivado, Multism, PSIM, CST</li>
+</ul>
