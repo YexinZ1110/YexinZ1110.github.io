@@ -1,28 +1,13 @@
 ---
-title: "Ultrasonic Manipulation of Micro Object with Large Aspect Ratio by Multifocal Point Acoustic Tweezers"
+title: "Noncontact Particle Manipulation on Water Surface with Ultrasonic Phased Array System and Microscopic Vision"
 collection: publications
-permalink: /publication/2023-06-09-Ultrasonic-Manipulation-of-Micro-Object-with-Large-Aspect-Ratio-by-Multifocal-Point-Acoustic-Tweezers
-excerpt: 'In this paper, we present an ultrosonic manipulation of micro-object with large aspect ratio. The technique is based on an acoustic tweezer platform and a real-time acoustic field construction algorithm based on holographic redundancy principle. It enables precise manipulation of micro-objects with large aspect ratio at the micrometer level, including automatic trapping and positioning, demonstrating the feasibility of applying robotic methods in precision acoustic operations. This study provides an effective solution for non-contact manipulation of micro-objects with large aspect ratio, with great potential for a wide range of applications in circuit assembly and advanced manufacturing.'
-date: 2023-06-09
-venue: 'Submitted to IEEE Transactions on Automation Science and Engineering'
+permalink: /publication/2022-09-01-Noncontact-Particle-Manipulation-on-Water-Surface-with-Ultrasonic-Phased-Array-System-and-Microscopic-Vision
+excerpt: 'In this paper, we report our latest research regarding dexterous and dynamic noncontact micro-particle manipulation on water surface effected by acoustic field in terms of automated trapping, closed-loop positioning, and real-time motion planning, which can be applied to scenarios such as parallel 3D printing, cell assembly, etc. The main contribution of this work is we demonstrated the feasibility of objective-oriented and fully utomated acoustic manipulation of micro-particle in precision scale based on robotic approach in 2D plane. Experiment results showed that the repetitive positioning accuracy can reach as high as 16 micrometer, which is essentially the pixel scale factor.'
+date: 2022-09-01
+venue: 'Admitted by IEEE International Conference on Robotics and Automation 2023, London'
 # citation: ' '
 ---
 **Abstract**
-Acoustic manipulation has been focusing on spherical particles, such as droplets and cells. However, micro-object with irregular shapes is more popular in broader appllication scenarios, such as microelectronics. In this paper, we present an ultrosonic manipulation of micro-object with large aspect ratio. The technique is based on an acoustic tweezer platform and a real-time acoustic field construction algorithm based on holographic redundancy principle. It enables precise manipulation of micro-objects with large aspect ratio at the micrometer level, including automatic trapping and positioning, demonstrating the feasibility of applying robotic methods in precision acoustic operations. This study provides an effective solution for non-contact manipulation of micro-objects with large aspect ratio, with great potential for a wide range of applications in circuit assembly and advanced manufacturing.
+Noncontact particle manipulation (NPM) shows great application potential than its conventional counterpart particularly in terms of non-invasiveness, and thus has significantly extended robotic manipulation capacity into bio-medical engineering, material science, etc. As NPM by means of electric, magnetic, and optical field has successfully demonstrated powerful strength in both academia and industry, NPM boosted by acoustic field, however, still faces staggering challenges. It is indeed in the very recent years that controllable dynamic airborne or waterborne acoustic field modulation technology emerged in academia. In this paper, we report our latest research regarding dexterous and dynamic noncontact micro-particle manipulation on water surface effected by acoustic field in terms of automated trapping, closed-loop positioning, and real-time motion planning, which can be applied to scenarios such as parallel 3D printing, cell assembly, etc. The main contribution of this work is we demonstrated the feasibility of objective-oriented and fully automated acoustic manipulation of micro-particle in precision scale based on robotic approach in 2D plane. Experiment results showed that the repetitive positioning accuracy can reach as high as 16 μm, which is essentially the pixel scale factor. 
 
 <!-- Recommended citation:   -->
----
-title: "Paper Title Number 1"
-collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://YexinZ1110.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
----
-This paper is about the number 1. The number 2 is left for future work.
-
-[Download paper here](http://YexinZ1110.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
