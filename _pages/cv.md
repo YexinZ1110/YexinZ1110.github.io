@@ -11,21 +11,26 @@ redirect_from:
 
 <h2>Education</h2>
 <ul>
-  <li><b>ShanghaiTech University</b></li>
-  Sept.2019-Jun.2023<br>
-  B.S. in Electrical and Information Engineering
-  <li><b>University of Pennsylvania</b></li>
-  Sept.2023-May.2025(expected)<br>
-  M.S. in Robotics
+  <li>
+    <b>ShanghaiTech University</b>
+    <div style="text-align: right;"><em>Sept.2019-Jun.2023</em></div>
+    B.S. in Electrical and Information Engineering
+  </li>
+  <li>
+    <b>University of Pennsylvania</b>
+    <div style="text-align: right;"><em>Sept.2023-May.2025(expected)</em></div>
+    M.S. in Robotics
+  </li>
 </ul>
+
 
 
 <h2>Work Experience</h2>
 <ul>
   <li><b>P&G</b></li> 
+  <div style="text-align: right;"><em>Shanghai, China</em></div>
   Robotics Software Engineering Intern
-  <br>
-  <em>Shanghai, China, Mar. 2023-Present</em>
+  <div style="text-align: right;"><em>Mar. 2023-Present</em></div>
   <ul>
     <li>Developed and implemented a robust algorithm for recognizing multiple boxes in complex backgrounds based on point clouds and grayscale images using Open3D. Achieved an accuracy rate of 97.5%.</li>
     <li>Calculated the transformation matrix between the robot coordinate system and the camera coordinate system.</li>
@@ -52,9 +57,7 @@ redirect_from:
 <h2>Competition Experience</h2>
 <ul>
   <li><b>2021 Xilinx China Women in Technology Hackathon</b>
-  <br>
-  <em>Oct.2021</em>
-  <br>
+  <div style="text-align: right;"><em>Oct.2021</em></div>
   Runner-up and Best Innovation Award in China Region
   <br>
   Winner in Shanghai Division
@@ -72,5 +75,5 @@ redirect_from:
   C/C++, Python, MATLAB, JAVA, HTML/CSS, JavaScript, Verilog, VHDL</li>
   <li><b>Technologies:</b>
   <br>
-  Node.js, Express.js, React.js, MongoDB, jQuery, Bootstrap，APIs，OpenCV, Qt, Open3D, Keil, Proteus, Git, \LaTeX, Solidworks, Unity(Vuforia), Vivado, Multism, PSIM, CST</li>
+  Node.js, Express.js, React.js, MongoDB, jQuery, Bootstrap，APIs，OpenCV, Qt, Open3D, Keil, Proteus, Git, LaTeX, Solidworks, Unity(Vuforia), Vivado, Multism, PSIM, CST</li>
 </ul>

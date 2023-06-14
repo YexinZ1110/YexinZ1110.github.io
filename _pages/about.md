@@ -7,7 +7,19 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi! My name is Yexin Zhang, I'm from China and now I am living in Pennsylvania. I graduated in Electrical and Information Engineering in ShanghaiTech University and I am going to pursue my Master degree in Robotics in University of Pennsylvania.
+Hello! I'm Yexin Zhang from China and currently living in Philadelphia. 
+
+I have an Electrical and Information Engineering degree from ShanghaiTech University and I'm pursuing a Master's in Robotics at the University of Pennsylvania.
+
+I'm eager to apply my skills in Robotics and software development, constantly seeking new challenges and staying up-to-date with cutting-edge technologies. 
+
+<!-- During my P&G Supply Chain internship, I developed robust object recognition algorithms using point clouds and designed efficient path-planning strategies.
+
+In the AMNR Lab, I worked on exciting projects like an Acoustic Tweezer system for non-contact manipulation on water surfaces and a micro-assembly system for small objects.
+
+I've also excelled in competitions, like the Xilinx China Women in Technology Hackathon, where my team built a Smart Guide Car and won Runner-up and Best Innovation Award in China. 
+
+Hi! My name is Yexin Zhang, I'm from China and now I am living in Philadelphia. I graduated in Electrical and Information Engineering in ShanghaiTech University and I am going to pursue my Master degree in Robotics in University of Pennsylvania.
 
 During my internship at P&G Supply Chain Department, I developed and implemented robust algorithms for object recognition based on point clouds, and designed efficient path-planning strategies.
 
@@ -17,21 +29,6 @@ In addition to my technical skills, I have actively participated in competitions
 
 I am excited to leverage my skills and experiences in Robotics and software development. I am constantly seeking new challenges and opportunities to expand my knowledge in cutting-edge technologies.
 
-<!-- <h2> Education background</h2>
-<div style="display: flex; justify-content: space-between;">
-  <div>
-    <strong>University of Pennsylvania</strong>
-    <br>
-    School of Engineering and Applied Science
-    <br>
-    Master of Robotics
-  </div>
-  <div style="text-align: right;">
-    <em>Pennsylvania, United States</em>
-    <br>
-    <em>Sept.2023-Jun.2025 (expected)</em>
-  </div>
-</div>
 
 <div style="display: flex; justify-content: space-between;">
   <div>
@@ -46,9 +43,9 @@ I am excited to leverage my skills and experiences in Robotics and software deve
     <br>
     <em>Sept.2019-Jun.2023</em>
   </div>
-</div> -->
+</div>
 
-<!-- This is the front page of a website that is powered by the [YexinZ1110 template](https://github.com/YexinZ1110/YexinZ1110.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/YexinZ1110/YexinZ1110.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+This is the front page of a website that is powered by the [YexinZ1110 template](https://github.com/YexinZ1110/YexinZ1110.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, projects, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/YexinZ1110/YexinZ1110.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website -->
 <!-- ======
