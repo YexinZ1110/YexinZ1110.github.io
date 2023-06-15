@@ -1,5 +1,5 @@
 ---
-title: "projects experience 1"
+title: "Help Visually Impaired People Navigate the Word"
 collection: projects
 type: "Undergraduate course"
 permalink: /projects/2014-spring-projects-1
