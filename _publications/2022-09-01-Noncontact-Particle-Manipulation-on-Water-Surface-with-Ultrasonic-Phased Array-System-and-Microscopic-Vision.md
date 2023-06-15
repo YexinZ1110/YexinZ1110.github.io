@@ -19,4 +19,5 @@ Noncontact particle manipulation (NPM) shows great application potential than it
 
 ![Poster presentation for ICRA 2023, London](../images/poster_presentation.jpg)
 [Download paper here](http://YexinZ1110.github.io/files/paper_ICRA.pdf)
+
 <!-- Recommended citation:   -->
