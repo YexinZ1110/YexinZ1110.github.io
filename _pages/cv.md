@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
+[Download Resume here](http://YexinZ1110.github.io/files/resume_robo_yexinz.pdf)
 {% include base_path %}
 
 <h2>Education</h2>
@@ -67,7 +67,7 @@ redirect_from:
     <br>
     Runner-up and Best Innovation Award in China Region
     <br>
-    Winner in Shanghai Division
+    Winner in Shanghai Division 
     <ul>
       <li>Led a team to develop a smart line-tracking car using Xilinx PYNQ-Z2 FPGA development board.</li>
       <li>Implemented Joystick control, orientation guidance, obstacle avoidance, and trajectory tracking functions.</li>
