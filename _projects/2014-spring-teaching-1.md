@@ -1,12 +1,12 @@
 ---
-title: "2021 Xilinx China Women in Technology Hackathon: Help Visually Impaired People Navigate the Word"
+title: "Help Visually Impaired People Navigate the Word"
 collection: projects
-type: "Undergraduate course"
+type: "2021 Xilinx China Women in Technology Hackathon"
 permalink: /projects/2014-spring-projects-1
-excerpt: 'In this project, I led a team to develop a smart line-tracking car using Xilinx PYNQ-Z2 FPGA development board. Functions such as Joystick control, orientation guidance, obstacle avoidance, and trajectory tracking were implemented. It demonstrated innovative solutions for the visually impaired by combining voice recognition and Bluetooth remote control.'
-venue: "ShanghaiTech University, SIST"
+excerpt: 'An advanced smart car based on the Xilinx PYNQ-Z2 FPGA board, which integrates innovative features like joystick control, orientation guidance, obstacle avoidance, and trajectory tracking. It aims at assisting visually impaired individuals.'
+venue: "Runner-up and Best Innovation Award in China Region, Winner in Shanghai Division"
 date: 2021-10-01
-location: "Runner-up and Best Innovation Award in China Region, Winner in Shanghai Division"
+location: "China"
 ---
 ![](../images/wit_img/0001.jpg)
 ![](../images/wit_img/0003.jpg)
