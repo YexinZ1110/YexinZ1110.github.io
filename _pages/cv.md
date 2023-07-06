@@ -84,5 +84,6 @@ redirect_from:
   C/C++, Python, MATLAB, JAVA, HTML/CSS, JavaScript, Verilog, VHDL</li>
   <li><b>Technologies:</b>
   <br>
-  Node.js, Express.js, React.js, MongoDB, jQuery, Bootstrap，APIs，OpenCV, Qt, Open3D, Keil, Proteus, Git, LaTeX, Solidworks, Unity(Vuforia), Vivado, Multism, PSIM, CST</li>
+  OpenCV, Qt, Open3D, Keil, Proteus, Git, LaTeX, Solidworks, Unity(Vuforia), Vivado, Multism, PSIM, CST</li>
+<!--   Node.js, Express.js, React.js, MongoDB, jQuery, Bootstrap，APIs，OpenCV, Qt, Open3D, Keil, Proteus, Git, LaTeX, Solidworks, Unity(Vuforia), Vivado, Multism, PSIM, CST</li> -->
 </ul>
