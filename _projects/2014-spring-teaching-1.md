@@ -8,6 +8,7 @@ venue: "Runner-up and Best Innovation Award in China Region, Winner in Shanghai 
 date: 2021-10-01
 location: "China"
 ---
+This project was led by me and focused on the development of an advanced smart line-tracking car using the Xilinx PYNQ-Z2 FPGA development board. We successfully implemented a wide range of sophisticated functionalities, including joystick control, orientation guidance, obstacle avoidance, and trajectory tracking. Notably, we integrated voice recognition and Bluetooth remote control technologies, resulting in groundbreaking solutions specifically designed to assist individuals with visual impairments. This project served as a testament to our expertise and dedication, making significant strides in technological advancements to enhance the quality of life for visually impaired individuals.
 ![](../images/wit_img/0001.jpg)
 ![](../images/wit_img/0003.jpg)
 ![](../images/wit_img/0004.jpg)
