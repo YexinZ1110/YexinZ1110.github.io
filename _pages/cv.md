@@ -47,14 +47,14 @@ redirect_from:
     Research Assistant
     <span style="float: right;"><em>June. 2021-June. 2023</em></span>
     <ul>
-    <h4>Acoustic Manipulation Platform</h4>
+    <br>Acoustic Manipulation Platform</br>
     <ul>
       <li>Developed an intuitive user-friendly interface using <b>Qt</b>, optimizing research efficiency and functionality.</li>
       <li>Integrated software modules with hardware components, enabling precise control of the end-effector and efficient communication with <b>FPGAs</b> through <b>CAN</b>.</li>
       <li>Created functions including real-time camera image display, objects' status updates, and parameter settings.</li>
       <li>Implemented efficient algorithms for image processing and feature extraction using <b>OpenCV</b>, enhancing particle localization capabilities.</li>
     </ul>
-    <h4>Micro-Robot Calibration System</h4>
+    <br>Micro-Robot Calibration System</br>
     <ul>
       <li>Engineered a software interface to efficiently control motor and needle hydrophone's movement efficiently, facilitating accurate calibration of the micro-robot system.</li>
       <li>Automated the acoustic field scanning process of the hydrophone, reducing scanning time by 80% through optimized software algorithms.</li>
