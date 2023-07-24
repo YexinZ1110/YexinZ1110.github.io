@@ -35,9 +35,9 @@ redirect_from:
     Robotics Software Engineering Intern
     <span style="float: right;"><em>Mar. 2023-Present</em></span>
     <ul>
-      <li>Developed and implemented a robust algorithm for recognizing multiple boxes in complex backgrounds based on point clouds and grayscale images using Open3D. Achieved an accuracy rate of 97.5%.</li>
+      <li>Developed and implemented a robust algorithm for recognizing multiple boxes in complex backgrounds based on point clouds and grayscale images using <b>Open3D</b>. Achieved an accuracy rate of 97.5%.</li>
       <li>Calculated the transformation matrix between the robot coordinate system and the camera coordinate system.</li>
-      <li>Designed and created an efficient path-planning strategy model for a palletizing robot using Matlab.</li>
+      <li>Designed and created an efficient path-planning strategy model for a palletizing robot using <b>Matlab</b>.</li>
     </ul>
   </li>
   <li>
@@ -47,14 +47,14 @@ redirect_from:
     Research Assistant
     <span style="float: right;"><em>June. 2021-June. 2023</em></span>
     <ul>
-    <p>Acoustic Manipulation Platform</p>
+    <h5>Acoustic Manipulation Platform</h5>
     <ul>
       <li>Developed an intuitive user-friendly interface using <b>Qt</b>, optimizing research efficiency and functionality.</li>
-      <li>Integrated software modules with hardware components, enabling precise control of the end-effector and efficient communication with FPGAs through CAN.</li>
+      <li>Integrated software modules with hardware components, enabling precise control of the end-effector and efficient communication with <b>FPGAs</b> through <b>CAN</b>.</li>
       <li>Created functions including real-time camera image display, objects' status updates, and parameter settings.</li>
       <li>Implemented efficient algorithms for image processing and feature extraction using <b>OpenCV</b>, enhancing particle localization capabilities.</li>
     </ul>
-    <p>Micro-Robot Calibration System</p>
+    <h5>Micro-Robot Calibration System</h5>
     <ul>
       <li>Engineered a software interface to efficiently control motor and needle hydrophone's movement efficiently, facilitating accurate calibration of the micro-robot system.</li>
       <li>Automated the acoustic field scanning process of the hydrophone, reducing scanning time by 80% through optimized software algorithms.</li>
