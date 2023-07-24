@@ -1,5 +1,5 @@
 ---
-title: "AR menu"
+title: "AR Menu"
 collection: projects
 type: "Workshop"
 permalink: /projects/2015-spring-projects-1
