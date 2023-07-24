@@ -40,6 +40,29 @@ redirect_from:
       <li>Designed and created an efficient path-planning strategy model for a palletizing robot using Matlab.</li>
     </ul>
   </li>
+  <li>
+    <b>ShanghaiTech University</b>
+    <span style="float: right;"><em>Shanghai, China</em></span>
+    <br>
+    Research Assistant
+    <span style="float: right;"><em>June. 2021-June. 2023</em></span>
+    <ul>
+    <p>Acoustic Manipulation Platform</p>
+    <ul>
+      <li>Developed an intuitive user-friendly interface using <b>Qt</b>, optimizing research efficiency and functionality.</li>
+      <li>Integrated software modules with hardware components, enabling precise control of the end-effector and efficient communication with FPGAs through CAN.</li>
+      <li>Created functions including real-time camera image display, objects' status updates, and parameter settings.</li>
+      <li>Implemented efficient algorithms for image processing and feature extraction using <b>OpenCV</b>, enhancing particle localization capabilities.</li>
+    </ul>
+    <p>Micro-Robot Calibration System</p>
+    <ul>
+      <li>Engineered a software interface to efficiently control motor and needle hydrophone's movement efficiently, facilitating accurate calibration of the micro-robot system.</li>
+      <li>Automated the acoustic field scanning process of the hydrophone, reducing scanning time by 80% through optimized software algorithms.</li>
+      <li>Implemented advanced signal processing techniques using a Butterworth high-pass filter in <b>C++</b>, ensuring high-quality data analysis and visualization.</li>
+      <li>Conducted image Jacobian matrix calibration using the least mean square method, ensuring exceptional system accuracy.</li>
+    </ul>     
+    </ul>
+  </li>
 </ul>
 
 
