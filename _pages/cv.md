@@ -7,10 +7,11 @@ redirect_from:
   - /resume
 ---
 [Download Resume about Robotics here](http://YexinZ1110.github.io/files/resume_robo_yexin.pdf)
+
 [Download Resume about Software Development here](http://YexinZ1110.github.io/files/resume_sde_yexinz.pdf)
 {% include base_path %}
 
-<h2>Education</h2>
+<!--<h2>Education</h2>
 <ul>
   <li>
     <span style="float: left;"><b>ShanghaiTech University</b></span>
@@ -31,7 +32,7 @@ redirect_from:
 <ul>
   <li>
     <b>P&G</b>
-    <span style="float: right;"><em>Shanghai, China</em></span>
+    <span style="float: right;"><em>Remote</em></span>
     <br>
     Robotics Software Engineering Intern
     <span style="float: right;"><em>Mar. 2023-Present</em></span>
@@ -48,12 +49,14 @@ redirect_from:
     Research Assistant
     <span style="float: right;"><em>June. 2021-June. 2023</em></span>
     <ul>
-    <b>Acoustic Manipulation Platform</b>
+    <b>Acoustic Manipulation System Construction</b>
     <ul>
-      <li>Developed an intuitive user-friendly interface using <b>Qt</b>, optimizing research efficiency and functionality.</li>
-      <li>Integrated software modules with hardware components, enabling precise control of the end-effector and efficient communication with <b>FPGAs</b> through <b>CAN</b>.</li>
-      <li>Created functions including real-time camera image display, objects' status updates, and parameter settings.</li>
-      <li>Implemented efficient algorithms for image processing and feature extraction using <b>OpenCV</b>, enhancing particle localization capabilities.</li>
+      <li> Built a 2500-channel phase-modulated square wave generator with FPGAs using Verilog.</li>
+      <li> Developed a C++ program for oscilloscope data extraction, and real-time visualization of waveforms with a Butter-worth filter, resulting in an improvement of the Signal-to-Noise Ratio (SNR) by a factor of 11.5.
+      <li> Teamed with 4 people to build an application with Qt, enhancing research efficiency by creating functions for real-time image display and recording, parameter settings, task execution, and experiment data storage.
+      <li> Implemented an FPGA controller, enabling hologram updating at 11 FPS through CAN, facilitating bidirectional phase data transmission, and integrating real-time phase data visualization into the software interface.
+      <li> Calibrated the micro camera with MATLAB, achieving average localization accuracy with only a 39 um error.
+
     </ul>
     <b>Micro-Robot Calibration System</b>
     <ul>
@@ -71,12 +74,6 @@ redirect_from:
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-<!-- Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul> -->
   
 <h2>Projects</h2>
   <ul>{% for post in site.projects %}
@@ -109,5 +106,5 @@ redirect_from:
   <li><b>Technologies:</b>
   <br>
   OpenCV, Qt, Open3D, Keil, Proteus, Git, LaTeX, Solidworks, Unity(Vuforia), Vivado, Multism, PSIM, CST</li>
-<!--   Node.js, Express.js, React.js, MongoDB, jQuery, Bootstrap，APIs，OpenCV, Qt, Open3D, Keil, Proteus, Git, LaTeX, Solidworks, Unity(Vuforia), Vivado, Multism, PSIM, CST</li> -->
+   Node.js, Express.js, React.js, MongoDB, jQuery, Bootstrap，APIs，OpenCV, Qt, Open3D, Keil, Proteus, Git, LaTeX, Solidworks, Unity(Vuforia), Vivado, Multism, PSIM, CST</li> -->
 </ul>
