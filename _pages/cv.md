@@ -8,6 +8,7 @@ redirect_from:
 ---
 [Download Resume about Robotics here](http://YexinZ1110.github.io/files/resume_robo_yexin.pdf)
 
+---
 [Download Resume about Software Development here](http://YexinZ1110.github.io/files/resume_sde_yexinz.pdf)
 {% include base_path %}
 
