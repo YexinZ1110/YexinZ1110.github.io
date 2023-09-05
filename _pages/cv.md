@@ -6,7 +6,8 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-[Download Resume here](http://YexinZ1110.github.io/files/resume_robo_yexinz.pdf)
+[Download Resume about Robotics here](http://YexinZ1110.github.io/files/resume_robo_yexin.pdf)
+[Download Resume about Software Development here](http://YexinZ1110.github.io/files/resume_sde_yexinz.pdf)
 {% include base_path %}
 
 <h2>Education</h2>
@@ -15,13 +16,13 @@ redirect_from:
     <span style="float: left;"><b>ShanghaiTech University</b></span>
     <span style="float: right;"><em>Sept.2019-Jun.2023</em></span>
     <br>
-    B.S. in Electrical and Information Engineering
+    Bachelor of Engineering in Electrical and Information Engineering
   </li>
   <li>
     <span style="float: left;"><b>University of Pennsylvania</b></span>
     <span style="float: right;"><em>Sept.2023-May.2025(expected)</em></span>
     <br>
-    M.S. in Robotics
+    Master of Science in Engineering, Artificial Intelligence and Robotics
   </li>
 </ul>
 
@@ -56,7 +57,7 @@ redirect_from:
     </ul>
     <b>Micro-Robot Calibration System</b>
     <ul>
-      <li>Engineered a software interface to efficiently control motor and needle hydrophone's movement efficiently, facilitating accurate calibration of the micro-robot system.</li>
+      <li>Engineered a software interface to control motor and needle hydrophone's movement efficiently, facilitating accurate calibration of the micro-robot system.</li>
       <li>Automated the acoustic field scanning process of the hydrophone, reducing scanning time by 80% through optimized software algorithms.</li>
       <li>Implemented advanced signal processing techniques using a Butterworth high-pass filter in <b>C++</b>, ensuring high-quality data analysis and visualization.</li>
       <li>Conducted image Jacobian matrix calibration using the least mean square method, ensuring exceptional system accuracy.</li>
