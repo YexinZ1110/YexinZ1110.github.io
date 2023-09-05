@@ -10,9 +10,9 @@ redirect_from:
 
 ---
 [Download Resume about Software Development here](http://YexinZ1110.github.io/files/resume_sde_yexinz.pdf)
-{% include base_path %}
 
-<!--<h2>Education</h2>
+<!--{% include base_path %}
+<h2>Education</h2>
 <ul>
   <li>
     <span style="float: left;"><b>ShanghaiTech University</b></span>
@@ -107,5 +107,5 @@ redirect_from:
   <li><b>Technologies:</b>
   <br>
   OpenCV, Qt, Open3D, Keil, Proteus, Git, LaTeX, Solidworks, Unity(Vuforia), Vivado, Multism, PSIM, CST</li>
-   Node.js, Express.js, React.js, MongoDB, jQuery, Bootstrap，APIs，OpenCV, Qt, Open3D, Keil, Proteus, Git, LaTeX, Solidworks, Unity(Vuforia), Vivado, Multism, PSIM, CST</li> -->
-</ul>
+   Node.js, Express.js, React.js, MongoDB, jQuery, Bootstrap，APIs，OpenCV, Qt, Open3D, Keil, Proteus, Git, LaTeX, Solidworks, Unity(Vuforia), Vivado, Multism, PSIM, CST</li> 
+</ul>-->
