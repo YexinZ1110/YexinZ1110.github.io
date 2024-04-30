@@ -7,11 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello! I'm Yexin Zhang from China and currently living in Philadelphia. 
+Hello! I'm Yexin. 
 
 I have obtained a Bachelor's degree in Electrical and Information Engineering from ShanghaiTech University, and I am currently pursuing a Master's degree in Robotics at the University of Pennsylvania.
 
-I'm eager to apply my skills in Robotics and software development, constantly seeking new challenges and staying up-to-date with cutting-edge technologies. 
+I'm eager to apply my skills in Robotics, constantly seeking new challenges and staying up-to-date with cutting-edge technologies. 
 
 <!-- During my P&G Supply Chain internship, I developed robust object recognition algorithms using point clouds and designed efficient path-planning strategies.
 
