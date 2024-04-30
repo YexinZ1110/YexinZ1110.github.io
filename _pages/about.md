@@ -9,7 +9,7 @@ redirect_from:
 ---
 Hello! I'm Yexin. 
 
-I have obtained a Bachelor's degree in Electrical and Information Engineering from ShanghaiTech University, and I am currently pursuing a Master's degree in Robotics at the University of Pennsylvania.
+I have obtained the Bachelor's degree in Electrical and Information Engineering from ShanghaiTech University, and I am currently pursuing a Master's degree in Robotics at the University of Pennsylvania.
 
 I'm eager to apply my skills in Robotics, constantly seeking new challenges and staying up-to-date with cutting-edge technologies. 
 
