@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-[Download Resume about Robotics here](http://YexinZ1110.github.io/files/resume_robo_yexin.pdf)
+[Download Resume here](http://YexinZ1110.github.io/files/resume_robo_yexin.pdf)
 
 
 <!--{% include base_path %}
