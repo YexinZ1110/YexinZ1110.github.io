@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-[Download Resume here](http://YexinZ1110.github.io/files/resume_Yexin_2024.pdf)
+[Download Resume here](http://YexinZ1110.github.io/files/简历_张叶歆.pdf)
 
 
 <!--{% include base_path %}
